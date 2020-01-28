@@ -177,5 +177,3 @@ Distributed under the BSD 3-Clause License.
 [Event sourcing]: http://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications
 [webhooks]: https://help.github.com/articles/about-webhooks/
 [access tokens]: https://help.github.com/articles/creating-an-access-token-for-command-line-use/
-
-Test for Heroku CI
